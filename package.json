@@ -1,0 +1,24 @@
+{
+  "name": "project01_cla-calculator",
+  "version": "1.0.0",
+  "description": "a simple calculator with typescript and node.js with use of inquirer library",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple calculator",
+    "mini calculator"
+  ],
+  "author": "Darshika",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "project01_cla-calculator": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
